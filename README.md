@@ -1,102 +1,48 @@
-<!-- Banner -->
-<img src="https://github.com/yourusername/yourusername/blob/main/banner.png" width="100%" alt="Banner"/>
+# Hi there, I'm Mahmoud AlEssawi 👋
 
-# 👋 Hi, I'm Mahmoud  
-### **.NET MAUI & C# Developer | Mobile Apps • APIs • ERP Systems**
+### 💻 About Me
+I'm a .NET MAUI & C# developer building cross-platform applications for mobile and desktop. I create ERP systems, healthcare apps, and online shopping solutions with a focus on performance, clean architecture, and user experience.  
 
-I build scalable cross-platform apps and backend systems using modern .NET technologies.  
-My work includes mobile applications, API development, ERP modules, dashboards, healthcare systems, and logistics automation.
-
-I focus on clean architecture, high performance, offline reliability, and production-ready delivery.
+- 🌍 Location: Egypt  
+- 📧 Email: [ma.alessawi@gmail.com](mailto:ma.alessawi@gmail.com)  
+- 🔗 Connect with me professionally on [Fiverr](https://www.fiverr.com/) (once your account is ready)  
 
 ---
 
-## 🚀 Tech Stack & Tools
+### 🚀 Skills
 
-### **Languages & Frameworks**
-<div>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js,ts" height="45"/>
-</div>
-
-### **Databases & Cloud**
-<div>
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,postgres,azure" height="45"/>
-</div>
-
-### **Tools**
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" height="45"/>
-</div>
+**Languages & Frameworks:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 🛠 What I Build
-- Cross-platform mobile apps (Android + iOS) with **.NET MAUI**  
-- Business & ERP modules: invoicing, tax engine, fulfillment, logistics  
-- Secure **C# APIs** with SQL/Firebase  
-- Medical & healthcare systems  
-- Custom dashboards, authentication systems, and workflow automation  
-- Offline-ready apps with caching and sync  
-- Fully optimized, production-ready architectures  
+### 📱 Projects
+
+**Agxium Community App** – Cross-platform app  
+[Google Play Store](https://play.google.com/store/apps/details?id=com.agxium.community&pcampaignid=web_share)  
+
+**Agxium Health Hub** – Healthcare ERP mobile app  
+[Google Play Store](https://play.google.com/store/apps/details?id=com.agxium.health_hub&pcampaignid=web_share)  
+
+**Windows App** – Available on Microsoft Store  
+[Microsoft Store](https://apps.microsoft.com/detail/9N7QNBD876L4?hl=en&gl=EG&ocid=pdpshare)  
 
 ---
 
-## 📌 Featured Projects
+### ⚡ GitHub Stats
 
-### 📱 **MAUI E-Commerce App**
-A cross-platform shopping app with cart, checkout, API integration, and admin dashboard.  
-**Tech:** .NET MAUI, C#, REST API, Firebase
-
-### 🚚 **Delivery & Fulfillment ERP System**
-Real-time driver tracking, pickup/pack/dispatch workflows, and customer notifications.  
-**Tech:** C#, SQL, Firebase, MAUI, Clean Architecture
-
-### 🧾 **Medical Clinic Management App**
-Patients, visits, sessions, invoices, tasks, and notifications.  
-**Tech:** .NET MAUI, Firestore, ASP.NET Core API
+![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAlEssawi&show_icons=true&theme=radical)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
-
-</div>
+### 💬 Let's Connect
+- Email: [ma.alessawi@gmail.com](mailto:ma.alessawi@gmail.com)  
+- Fiverr: *(Add your Fiverr link here once your account is ready)*  
 
 ---
 
-## 🎨 Activity Graph
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🤝 Open to Collaboration
-I collaborate on:
-- .NET MAUI apps  
-- Healthcare & business platforms  
-- ERP automation  
-- API development  
-- Technical consulting & architecture  
-
----
-
-## 📫 Contact Me
-**Email:** your@email.com  
-**LinkedIn:** your link  
-**Fiverr:** your Fiverr profile (to attract clients)  
-
----
-
-### ⭐ If you like my work, consider following or starring a repo!
